@@ -1,4 +1,4 @@
-<h3>Hi:v:,</h3> My name is Daniel, I am a student and a programmer.
+<h3>Hello World</h3> My name is Daniel, I am a student and a programmer.
 I like challenges and seeing things work.</br>Always eager to learn new skills and help.
 
 #### Programming Languages
