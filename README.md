@@ -1,5 +1,5 @@
 <h3>Hello World</h3> My name is Daniel, I am a student and a programmer.
-I like challenges and seeing things work.</br>Always eager to learn new skills and help.
+I like challenges and seeing things work.</br>Always eager to learn new skills and help. http://0xprateek-portfolio-template.rf.gd/?i=1#resume
 
 [My Portfolio](https://danielpankratov.github.io)
 
